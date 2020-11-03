@@ -30,7 +30,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'bootstrap', '~> 4.3.1'
 
 #gem 'omniauth', '~> 1.9'
-gem 'omniauth-auth0', '~> 2.2'
+gem 'omniauth-auth0', '~> 2.4'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
